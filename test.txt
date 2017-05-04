@@ -1,2 +1,6 @@
 it is a bad weather
-oh my god
+<<<<<<< HEAD
+no fast forward
+=======
+no fast forward
+>>>>>>> day2
